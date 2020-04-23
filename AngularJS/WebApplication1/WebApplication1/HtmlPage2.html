@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html ng-app="myModule">
+<head>
+    <meta charset="utf-8" />
+    <title>Angular</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.9.0.js"></script>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/mainjs/cutom2.js"></script>
+</head>
+<body>
+
+    <div ng-controller="myController">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Likes</th>
+                    <th>Dislikes</th>
+                    <th>Like/Dislike</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="technology in technologies">
+                    <td>{{ technology.name }}</td>
+                    <td>{{ technology.likes }}</td>
+                    <td>{{ technology.dislikes }}</td>
+                    <td>
+                        <input type="button" ng-click="incrementLikes(technology)" value="Like" />
+                        <input type="button" ng-click="incrementDislikes(technology)" value="Dislike" />
+                    </td>
+
+
+
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿<div class="form-group">
+    <label class="control-label col-sm-2" for="name">Name: </label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" id="name" disabled="disabled"  ng-model="employee.name" />
+    </div>
+</div>
+<div class="form-group">
+    <label class="control-label col-sm-2" for="des">designation: </label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" id="des" disabled="disabled"  ng-model="employee.designation" />
+    </div>
+</div>
+
+
+<h4>Employees Table</h4>
+
+<table class="table table-responsive table-bordered">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>designation</th>
+
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr ng-repeat="employee in employeesProfile">
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.email }}</td>
+        <td>{{ employee.designation }}</td>
+    </tr>
+    </tbody>
+
+</table>
+
+<br/>
+<br />
+<button class="btn btn-danger" ng-click="logOut()">LOG OUT</button>
