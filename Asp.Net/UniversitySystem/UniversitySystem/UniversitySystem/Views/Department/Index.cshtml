@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Departments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/jquery-3.0.0.min.js"></script>
+
+<h2>Departments</h2>
+
+<div>
+    <table class="table table-bordered table-hover" id="viewDepartmentTable">
+        <tr>
+            <th style="color: blueviolet">Department Code</th>
+            <th style="color: blueviolet">Department Name</th>
+        </tr>
+    </table>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $.ajax({
+            type: "GET",
+            url: "/api/Departments/",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $.each(data,
+                    function (i, item) {
+                        var rows = "<tr>" + "<td id='DeptCode'>" + item.DepartmentCode + "</td>" +
+                            "<td id='DeptName'>" + item.DepartmentName + "</td>" + "</tr>";
+                        $('#viewDepartmentTable').append(rows);
+                    });
+                console.log(data);
+            },
+            failure: function(data) {
+                alert(data.responseText);
+            },
+            error: function(data) {
+                alert(data.responseText);
+            }
+        });
+    });
+</script>

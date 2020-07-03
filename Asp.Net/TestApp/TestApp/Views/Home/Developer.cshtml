@@ -1,0 +1,20 @@
+﻿@model List<TestApp.Models.Person>
+@{
+    ViewBag.Title = "Developer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Developer</h2>
+<p>@ViewBag.Message</p>
+@{
+    foreach (var person in Model)
+    {
+        <p>Name : @person.Name</p>
+        <p>age : @person.Age</p>
+    }
+
+
+    
+}
+
+
