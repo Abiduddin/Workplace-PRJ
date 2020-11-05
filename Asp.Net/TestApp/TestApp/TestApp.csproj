@@ -244,7 +244,16 @@
     <Compile Include="Migrations\202006291439033_PersonAnnot.designer.cs">
       <DependentUpon>202006291439033_PersonAnnot.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202007230304507_addCar.cs" />
+    <Compile Include="Migrations\202007230304507_addCar.designer.cs">
+      <DependentUpon>202007230304507_addCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007230323418_redoCar.cs" />
+    <Compile Include="Migrations\202007230323418_redoCar.designer.cs">
+      <DependentUpon>202007230323418_redoCar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Car.cs" />
     <Compile Include="Models\Family.cs" />
     <Compile Include="Models\Context\ProjectDbContext.cs" />
     <Compile Include="Models\Person.cs" />
@@ -319,6 +328,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202006291439033_PersonAnnot.resx">
       <DependentUpon>202006291439033_PersonAnnot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007230304507_addCar.resx">
+      <DependentUpon>202007230304507_addCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007230323418_redoCar.resx">
+      <DependentUpon>202007230323418_redoCar.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

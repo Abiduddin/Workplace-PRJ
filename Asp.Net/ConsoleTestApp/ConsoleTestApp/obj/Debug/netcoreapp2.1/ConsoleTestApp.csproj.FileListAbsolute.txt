@@ -1,0 +1,11 @@
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp2.1\ConsoleTestApp.deps.json
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp2.1\ConsoleTestApp.runtimeconfig.json
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp2.1\ConsoleTestApp.runtimeconfig.dev.json
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp2.1\ConsoleTestApp.dll
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\bin\Debug\netcoreapp2.1\ConsoleTestApp.pdb
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.csprojAssemblyReference.cache
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.csproj.CoreCompileInputs.cache
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.AssemblyInfoInputs.cache
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.AssemblyInfo.cs
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.dll
+D:\Workplace PRJ\Asp.Net\ConsoleTestApp\ConsoleTestApp\obj\Debug\netcoreapp2.1\ConsoleTestApp.pdb

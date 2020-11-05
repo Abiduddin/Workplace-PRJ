@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:AngularJS" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:AngularJS" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SignUpLogInWebApp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:AngularJS" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SignUpLogInWebApp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SignUpLogInWebApp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Asp.Net" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Asp.Net" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:TestApp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:nuget" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Asp.Net" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:TestApp" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:TestApp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="806a0225-7d8f-48d8-a0c1-7d38e172c625" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/.vs/TestApp/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/Models/Context/ProjectDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/Models/Context/ProjectDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/TestApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/TestApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/bin/TestApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Asp.Net/TestApp/TestApp/obj/Debug/TestApp.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hcKrshjRdcMJ7ZGk7XBhqCxTUC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="806a0225-7d8f-48d8-a0c1-7d38e172c625" name="Default Changelist" comment="" />
+      <created>1600305141519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600305141519</updated>
+      <workItem from="1600305142765" duration="2602000" />
+      <workItem from="1601789182532" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1600310050653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600310050653" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1600310050653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600310050653" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1600310050653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600310050653" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1600310050653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600310050653" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1600305175103">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1600305175103" />
+  </component>
+</project>

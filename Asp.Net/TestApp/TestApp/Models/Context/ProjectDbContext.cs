@@ -11,5 +11,7 @@ namespace TestApp.Models.Context
     {
         public DbSet<Person> Person { get; set; }
         public DbSet<Family> Families { get; set; }
+
+        public DbSet<Car> Cars { get; set; }
     }
 }
